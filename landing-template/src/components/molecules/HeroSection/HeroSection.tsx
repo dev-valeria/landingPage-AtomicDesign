@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Button from '../../atoms/Button/Button';
-import './HeroSection.module.css';
+import './HeroSection.css';
 
 const HeroSection: React.FC = () => {
   const [email, setEmail] = useState('');
