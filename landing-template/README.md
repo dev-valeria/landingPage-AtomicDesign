@@ -1,46 +1,68 @@
-# Getting Started with Create React App
+# Landing Page - Atomic Design 🌐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é uma **Landing Page** desenvolvida utilizando o conceito de **Atomic Design** e React com TypeScript. O objetivo é demonstrar a construção de uma interface modular, reutilizável e escalável.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🛠️ Tecnologias Utilizadas
 
-### `npm start`
+- **React**: Biblioteca para criação de interfaces de usuário.
+- **TypeScript**: Superset do JavaScript para tipagem estática.
+- **CSS Modules**: Para estilização modular.
+- **Atomic Design**: Metodologia para organização de componentes.
+- **Node.js/NPM**: Ambiente de execução e gerenciamento de pacotes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📂 Estrutura do Projeto
 
-### `npm test`
+A estrutura do projeto segue o padrão **Atomic Design**, dividindo os componentes em átomos, moléculas, organismos, templates e páginas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌟 Funcionalidades
 
-### `npm run build`
+- **Header**: Cabeçalho estilizado com título.
+- **Hero Section**:
+  - Campo de entrada para email.
+  - Validação de email com mensagem de erro.
+  - Botão estilizado com transições suaves.
+- **Footer**: Rodapé estilizado com informações de copyright.
+- **Layout Responsivo**: Adaptado para diferentes tamanhos de tela.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🖌️ Estilos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Os estilos foram implementados utilizando **CSS Modules** para garantir modularidade e evitar conflitos.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📜 Licença
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Este projeto está licenciado sob a [MIT License](LICENSE). Você pode utilizá-lo e modificá-lo conforme necessário.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ✨ Contribuições
 
-## Learn More
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👩‍💻 Desenvolvedora
+
+Feito com ❤️ por **Valéria Melo**.  
+[LinkedIn](https://www.linkedin.com/in/valeriamelotech/) 
+
+
+
+---
+
+## 🚀 Como Rodar o Projeto
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
+
+
