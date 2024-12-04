@@ -1,17 +1,8 @@
 import React from "react";
-import Header from './components/organisms/Header/Header'
-import HeroSection from './components/molecules/HeroSection/HeroSection'
+import HomePage from "./components/pages/HomePage";
 
 const App: React.FC = () => {
-  return (
-    <div>
-      <Header />
-      <main>
-        <HeroSection />
-      </main>
-
-    </div>
-  );
+  return <HomePage />
 };
 
 export default App;
